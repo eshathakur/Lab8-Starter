@@ -3,9 +3,9 @@
     "short_name": "Esha Thakur",
     "description": "",
     "start_url": "",
-    "display": "browser",
-    "background_color": "",
-    "theme_color": "",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#FFFFFF",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
@@ -33,27 +33,27 @@
       }, 
       {
         "src": "/assets/images/icons/0-star.svg",
-        "type": "svg"
+        "type": "image/svg+xml"
       }, 
       {
         "src": "/assets/images/icons/1-star.svg",
-        "type": "svg"
+        "type": "image/svg+xml"
       },
       {
         "src": "/assets/images/icons/2-star.svg",
-        "type": "svg"
+        "type": "image/svg+xml"
       },
       {
         "src": "/assets/images/icons/3-star.svg",
-        "type": "svg"
+        "type": "image/svg+xml"
       },
       {
         "src": "/assets/images/icons/4-star.svg",
-        "type": "svg"
+        "type": "image/svg+xml"
       },
       {
         "src": "/assets/images/icons/5-star.svg",
-        "type": "svg"
+        "type": "image/svg+xml"
       }
       
     ]
