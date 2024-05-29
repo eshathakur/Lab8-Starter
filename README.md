@@ -1,5 +1,10 @@
 # Lab8-Starter
 
+# partner
+Brooke Truong
+
+# Deployed GitHub Pages URL
+[GitHub Pages](https://eshathakur.github.io/Lab8-Starter/)
 
 ### Graceful Degradation and Service Workers
 

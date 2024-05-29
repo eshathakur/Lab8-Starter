@@ -1,7 +1,7 @@
 {
     "name": "Lab8-Starter",
     "short_name": "Esha Thakur",
-    "description": "",
+    "description": "An app to views recipies, can work offline",
     "start_url": "",
     "display": "standalone",
     "background_color": "#000000",
