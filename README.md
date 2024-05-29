@@ -1,7 +1,7 @@
 # Lab8-Starter
 
 # partner
-Brooke Truong
+Brooke Truong (collaborated only on part 2)
 
 # Deployed GitHub Pages URL
 [GitHub Pages](https://eshathakur.github.io/Lab8-Starter/)
